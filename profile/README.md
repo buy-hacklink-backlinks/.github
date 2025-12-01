@@ -6,7 +6,7 @@
 Мы предоставляем возможность размещать Hacklink не только в виде стандартных ссылок, но и **с расширенным контекстом**.  
 Вы можете указать ключевые слова, фразы, анкор, тематическое описание или дополнительный текст, который будет размещён рядом со ссылкой.  
 
-[![Hacklink](https://github.com/user-attachments/assets/44f23268-8a5d-45f6-8dea-efc8e28b4082)](https://linkshop.run/register/index?invite=klr5vw3FJMcNls76)
+[![Покупка Hacklink](https://github.com/user-attachments/assets/99c5159a-60e3-472a-b068-d0f1842cccfc)](https://linkshop.run/register/index?invite=klr5vw3FJMcNls76)
 
 ### Наши услуги
 - **Каждый Hacklink подбирается вручную**, с тщательной проверкой траста, авторитетности и тематической релевантности  
